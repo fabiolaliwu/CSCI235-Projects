@@ -1,3 +1,3 @@
-#Project 2
+# Project2
 
-This is the second project out of seven completed in the Spring 2024 semester at Hunter College.
+The project specification can be found on Blackboard. This is the second out of the seven projects completed in the Spring 2024 semester at Hunter College.
