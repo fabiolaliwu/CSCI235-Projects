@@ -2,7 +2,6 @@
 ArrayBag interface for term project
 CSCI 235 Spring 2024
 */
-
 #ifndef ARRAY_BAG_
 #define ARRAY_BAG_
 #include <iostream>
